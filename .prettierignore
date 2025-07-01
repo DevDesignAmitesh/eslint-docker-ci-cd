@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Next.js build output
+.next
+
+# Output folders
+out
+dist
+build
+coverage
+
+# Environment files
+.env
+.env.*  
+
+# Static assets (optional)
+public/**/*
+
+# VS Code settings (optional)
+.vscode
+
+# Log files
+*.log
+
+# TypeScript cache (optional)
+*.tsbuildinfo
